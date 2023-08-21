@@ -1,7 +1,8 @@
 # Leonard
 A professor in Calculus
-reference:
-source:
+Reference:
+
+15.2 Divergence and Curl:
 https://www.youtube.com/watch?v=TMWevkxtS9s&t=622s
 
 ## Original Playlist
